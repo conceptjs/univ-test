@@ -1,0 +1,12 @@
+{
+  "uri" : "local://lSJiaU-GkABf2KZpjDb2n4/",
+  "name" : "Root Concept for univ",
+  "category" : "",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ ],
+  "isas" : [ {
+    "concept" : "/common/core/opjFk6_9uT9LBqKoCcMoXF/"
+  } ],
+  "isLambda" : false
+}
