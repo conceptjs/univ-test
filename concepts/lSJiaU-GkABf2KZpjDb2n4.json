@@ -5,8 +5,6 @@
   "flags" : "U",
   "lvars" : [ ],
   "vars" : [ ],
-  "isas" : [ {
-    "concept" : "/common/core/opjFk6_9uT9LBqKoCcMoXF/"
-  } ],
+  "isas" : [ ],
   "isLambda" : false
 }
